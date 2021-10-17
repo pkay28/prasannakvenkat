@@ -34,7 +34,7 @@
             <div class="wrapper">
                 <header>
                     <div class="hero-content">
-                        <h1 style>Hi, I'm Prasanna</h1>
+                        <h1 style>Hi, I'm Prasanna K</h1>
                         <p>
                             I'm Passionate about building products that users love.  
                         </p>
