@@ -43,11 +43,8 @@ nav {
         display: flex;
       }
       
-      nav .logo {
-        font-family: "Poppins", sans-serif;
-        font-style: normal;
-        font-weight: 800;
-        font-size: 52px;
+       nav .logo {
+        width: 800px;
         color: #021718;
       }
       
