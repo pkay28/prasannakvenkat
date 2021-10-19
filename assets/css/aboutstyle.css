@@ -9,6 +9,11 @@ body{
 }
 
 /* Bio */
+.experience{
+  width: 800px;
+  font-style: normal;
+  text-align: justify;
+}
 
 .bio{
     padding-top: 60px;
